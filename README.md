@@ -1,2 +1,2 @@
 # TravelAppUI-ReactNative
-co-authors https://github.com/ndvanh
+co-author https://github.com/ndvanh
